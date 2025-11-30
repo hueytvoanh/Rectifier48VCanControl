@@ -16,11 +16,11 @@
 <img width="944" height="914" alt="image" src="https://github.com/user-attachments/assets/18214e3d-31d4-4133-961c-6403af3dd6e6" />
 
 # References
-https://github.com/anikrooz/Emerson-Vertiv-R48
-https://github.com/PurpleAlien/R48_Rectifier/tree/main
-https://endless-sphere.com/sphere/threads/rectifier-emerson-r48-3500e-3200e-mod-voltage-adjust-13-65v-to-53-9v.112293/
+    https://github.com/anikrooz/Emerson-Vertiv-R48
+    https://github.com/PurpleAlien/R48_Rectifier/tree/main
+    https://endless-sphere.com/sphere/threads/rectifier-emerson-r48-3500e-3200e-mod-voltage-adjust-13-65v-to-53-9v.112293/
 
-https://endless-sphere.com/sphere/threads/overview-best-rectifiers-for-charging-voltage-mod-eltek-delta-huawei-emerson-vertiv.114784/
+    https://endless-sphere.com/sphere/threads/overview-best-rectifiers-for-charging-voltage-mod-eltek-delta-huawei-emerson-vertiv.114784/ 
     Eltek
         CAN / I²C: https://endless-sphere.com/forums/viewtopic.php?f=14&t=71139
     Emerson/Vertiv
